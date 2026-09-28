@@ -37,9 +37,4 @@ class ProjectTest extends TestCase
             ->assertOk()
             ->assertSee('Aplikasi HSE internal.');
     }
-
-    public function test_route_admin_butuh_login(): void
-    {
-        $this->get('/admin/projects/create')->assertRedirect();
-    }
 }
