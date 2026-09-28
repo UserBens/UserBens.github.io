@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="utf-8">
-    <title>Portofolio</title>
+    <title>My Portofolio</title>
 </head>
 <body>
     <h1>Project Saya</h1>
